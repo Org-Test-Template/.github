@@ -28,14 +28,14 @@ Cras vel elementum leo, blandit egestas nulla. In condimentum vestibulum dapibus
 	 * [kubeflow](https://github.com/opendatahub-io/kubeflow): Quisque congue egestas diam quis imperdiet. Nullam hendrerit id erat nec sollicitudin. Nam condimentum porta maximus. Vestibulum sagittis ac purus ullamcorper viverra. Duis pellentesque vitae lorem sed vulputate. Vestibulum et venenatis diam. Quisque gravida tortor non urna dictum facilisis. 
 	 * [odh-dashboard](https://github.com/opendatahub-io/odh-dashboard): Sed lectus metus, dignissim sit amet interdum non, pharetra ut tortor. Integer sed ante tincidunt nisi volutpat pellentesque non sit amet sem.
  - **Utilities** 
- 	 * [odh-images](https://github.com/opendatahub-io/odh-images): Aliquam vitae auctor magna, nec euismod purus.
- 	 * [oauthenticator](https://github.com/opendatahub-io/oauthenticator): Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.
+ 	 * [odh-images](https://github.com/opendatahub-io/odh-images):  Mauris vitae enim a justo luctus imperdiet egestas a enim. Suspendisse maximus laoreet felis, id laoreet elit volutpat tincidunt. Suspendisse hendrerit molestie elit at posuere. 
+ 	 * [oauthenticator](https://github.com/opendatahub-io/oauthenticator): Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.  Aliquam vitae auctor magna, nec euismod purus.
  - **Tools**
-  	 *  [jupyterhub-quickstart](https://github.com/opendatahub-io/jupyterhub-quickstart): Aliquam vitae auctor magna, nec euismod purus.
-  	 *  [opendatahub.io-redirects](https://github.com/opendatahub-io/opendatahub.io-redirects): Ellentesque sollicitudin, mi et pellentesque tempus, lorem nunc.
-  	 * [landscapeapp](https://github.com/opendatahub-io/landscapeapp): Fusce accumsan tincidunt elit vel ullamcorper.
+  	 *  [jupyterhub-quickstart](https://github.com/opendatahub-io/jupyterhub-quickstart): Maecenas porta odio ut iaculis volutpat. Vivamus vitae dui volutpat massa semper lobortis a vel arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+  	 *  [opendatahub.io-redirects](https://github.com/opendatahub-io/opendatahub.io-redirects): Ellentesque sollicitudin, mi et pellentesque tempus, lorem nunc.  Fusce accumsan tincidunt elit vel ullamcorper. Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.
+  	 * [landscapeapp](https://github.com/opendatahub-io/landscapeapp): Maecenas porta odio ut iaculis volutpat. Vivamus vitae dui volutpat massa semper lobortis a vel arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed efficitur, erat nec rutrum sagittis, mauris quam faucibus nisi, quis aliquet odio dui non velit.
  - **Backup Repos** 
-	 * [odh-landscape](https://github.com/opendatahub-io/odh-landscape):  Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.
+	 * [odh-landscape](https://github.com/opendatahub-io/odh-landscape): Aenean sit amet massa egestas, pellentesque tellus vitae, vehicula dui. Aenean placerat enim vel vestibulum ultricies. Vestibulum ut est ut ipsum dapibus laoreet euismod sed lorem.   
 
  
 ### Getting Started 
