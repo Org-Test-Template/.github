@@ -1,30 +1,33 @@
-## Hi there 👋
+
+
+
+### Open Data Hub 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae lectus rhoncus, varius orci ut, vestibulum libero. Phasellus facilisis lectus quis leo feugiat commodo non ac lorem. Etiam non mattis magna. Curabitur dolor eros, vulputate id diam sed, ullamcorper porta dolor. Quisque dignissim arcu a quam suscipit, vitae porttitor ligula pretium. Ut tincidunt ante rutrum metus consectetur consequat. Pellentesque eu diam in lorem sollicitudin commodo.
 
 ##
-Active Issues: [https://github.com/Org-Test-Template/.github/issues](https://github.com/Org-Test-Template/.github/issues)  
 Contribution Guidelines: [https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md](https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md)  
+Active Issues: [https://github.com/Org-Test-Template/.github/issues](https://github.com/Org-Test-Template/.github/issues)  
 ##
-Architecture Flowchart 
 
 ### Repositories
 
  - Core/Main Repos
-	 * ds
-	 * ds
-	 * ds
-	 * ds
- - Tools
-  	 * ds
-  	 * ds
+	 * [odh-manifests](https://github.com/opendatahub-io/odh-manifests) Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.
+	 * [manifests](https://github.com/opendatahub-io/manifests) Enean in erat metus, Nunc nibh leo, egestas nec felis ut, consectetur accumsan nunc.
+	 * [opendatahub-operator](https://github.com/opendatahub-io/opendatahub-operator) Aliquam vitae auctor magna, nec euismod purus.
+	 * [kubeflow](https://github.com/opendatahub-io/kubeflow) Pellentesque sollicitudin, mi et pellentesque tempus, lorem nunc.
+	 * [odh-dashboard](https://github.com/opendatahub-io/odh-dashboard) Fusce accumsan tincidunt elit vel ullamcorper.
  - Utilities 
- 	 * ds
+ 	 * [odh-images](https://github.com/opendatahub-io/odh-images) Aliquam vitae auctor magna, nec euismod purus.
+ 	 * [oauthenticator](https://github.com/opendatahub-io/oauthenticator) Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.
+ - Tools
+  	 *  [jupyterhub-quickstart](https://github.com/opendatahub-io/jupyterhub-quickstart) Aliquam vitae auctor magna, nec euismod purus.
+  	 *  [opendatahub.io-redirects](https://github.com/opendatahub-io/opendatahub.io-redirects) Ellentesque sollicitudin, mi et pellentesque tempus, lorem nunc.
+  	 * [landscapeapp](https://github.com/opendatahub-io/landscapeapp) Fusce accumsan tincidunt elit vel ullamcorper.
+ - Backup Repos 
+	 * [odh-landscape](https://github.com/opendatahub-io/odh-landscape)  Integer vel egestas risus. Aenean at felis in nisi varius scelerisque.
+
  
 ##
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?  
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
