@@ -12,10 +12,13 @@ Cras vel elementum leo, blandit egestas nulla. In condimentum vestibulum dapibus
 [https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md](https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md)
 
 **Release notes**:  
-[https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md](https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md)
+[https://opendatahub.io/docs/roadmap/release-notes.html](https://opendatahub.io/docs/roadmap/release-notes.html)
 
 **Roadmap**:  
-[https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md](https://github.com/opendatahub-io/opendatahub-community/blob/master/contributing.md)
+[https://opendatahub.io/docs/roadmap/future.html](https://opendatahub.io/docs/roadmap/future.html)
+
+**Getting Started**:  
+[https://opendatahub.io/docs/getting-started/quick-installation.html](https://opendatahub.io/docs/getting-started/quick-installation.html)
 
 ##
 
@@ -38,9 +41,3 @@ Cras vel elementum leo, blandit egestas nulla. In condimentum vestibulum dapibus
 	 * [odh-landscape](https://github.com/opendatahub-io/odh-landscape): Aenean sit amet massa egestas, pellentesque tellus vitae, vehicula dui. Aenean placerat enim vel vestibulum ultricies. Vestibulum ut est ut ipsum dapibus laoreet euismod sed lorem.   
 
  
-### Getting Started 
-
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque non mi ante. Maecenas porta odio ut iaculis volutpat. Vivamus vitae dui volutpat massa semper lobortis a vel arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed efficitur, erat nec rutrum sagittis, mauris quam faucibus nisi, quis aliquet odio dui non velit. Cras convallis, metus tempus efficitur commodo, diam dolor aliquet magna, et eleifend ipsum dui ut diam. Ut congue finibus tellus mollis aliquam. Sed tempus, odio nec vestibulum efficitur, enim purus feugiat massa, id scelerisque neque tortor a lorem. Ut tristique rutrum elit ultricies dictum.
-
-Nulla vehicula quam finibus diam hendrerit mattis. Morbi et quam et leo venenatis elementum. Donec vestibulum enim velit. Curabitur auctor lobortis lacus, id pretium eros pretium varius. Cras vel elementum leo, blandit egestas nulla. In condimentum vestibulum dapibus. In euismod vehicula ipsum nec cursus. Morbi sem ante, lacinia vitae mi quis, viverra euismod erat. Mauris vitae enim a justo luctus imperdiet egestas a enim. Suspendisse maximus laoreet felis, id laoreet elit volutpat tincidunt. Suspendisse hendrerit molestie elit at posuere. 
-
